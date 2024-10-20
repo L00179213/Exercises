@@ -1,5 +1,5 @@
 #!/bin/bash
-# by: JOR
+# by: Zainab
 # Date: 11DEC18
 # Revised: 13OCT24
 # Function: Commit the file
